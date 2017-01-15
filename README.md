@@ -91,5 +91,5 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
   5. Check for existing [issues](https://github.com/cesarferreira/dryrun/issues) first, before filing an issue.
   6. Have fun!
 
-### Created & Maintained By
+### Created & Maintained By me
 [Cesar Ferreira](https://github.com/cesarferreira) ([@cesarmcferreira](https://www.twitter.com/cesarmcferreira))
